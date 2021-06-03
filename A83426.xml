@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of of [sic] both Houses of Parliament, concerning a pacification presented unto His Maiesty in a petition, by the Right Honourable the Earle of Norhumberland [sic], aud [sic] the Earle of Pembroke and foure of the House of Commons, with His Majesties most gratious answer thereunto sent by Sir William Killigrew to both Houses.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83426</idno><idno type="EEBO-CITATION">99861349</idno>
+  <idno type="VID">113482</idno>
+  <idno type="EEBO-PROQUEST">2248534499</idno>
+  
+            <idno type="STC">Wing E2234</idno>
+            <idno type="STC">Thomason E126_33</idno>
+            <idno type="STC">ESTC R20067</idno>
+            <idno type="PROQUEST">99861349</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861349e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113482)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E126[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of of [sic] both Houses of Parliament, concerning a pacification presented unto His Maiesty in a petition, by the Right Honourable the Earle of Norhumberland [sic], aud [sic] the Earle of Pembroke and foure of the House of Commons, with His Majesties most gratious answer thereunto sent by Sir William Killigrew to both Houses.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Hanson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Novemb. 9. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: 'William' is marked out and "pastor" is inserted following 'Killigrew'.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Killigrew, William, --  Sir, 1606-1695 --  Early works to 1800.</term>
+               <term type="personal_name">Northumberland, Algernon Percy, --  Earl of, 1602-1668 --  Early works to 1800.</term>
+               <term type="personal_name">Pembroke, Philip Herbert, --  Earl of, 1584-1650 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament. --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113482:1"/>
+            <pb facs="tcp:113482:1"/>
+            <p> THE RESOLVTION OF OF BOTH HOVSES OF Parliament, concerning a pacification presented unto his Maiesty in a Petition, by the Right Honourable the Earle of Norhumberland, and the <hi>EARLE</hi> of <hi>Pembroke</hi> and foure of the house o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Commons, WITH His Majesties most gratious Answer there<g ref="char:EOLhyphen"/>unto sent by Sir William Killigrew to both Houses.</p>
+            <p>LONDON, Printed for <hi>John Hanson. Novemb.</hi> 9. 1642.</p>
+            <pb facs="tcp:113482:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:113482:2"/>
+            <head>The Resolution of both Houses of <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> concerning a patisication, presen<g ref="char:EOLhyphen"/>ted unto his Maiesty in a Petition by the Right Honourable the Earle of <hi>Northum<g ref="char:EOLhyphen"/>berland,</hi> and the Earle of <hi>Pembrke</hi> and foure Members of the House of Commons.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the great and bloudy battaile fought at <hi>Kinton,</hi> his Majestie taking into his consi<g ref="char:EOLhyphen"/>deration, the great ef<g ref="char:EOLhyphen"/>fusion of bloud that hath bin, and the la<g ref="char:EOLhyphen"/>mentable probability of more like to be shed in this most unnaturall and civill war, if some speedy course be not taken for the setling of a Peace, and causing of a consultation betweene the King and his Parliament, the Kings most excellent Ma<g ref="char:EOLhyphen"/>iesty was most graciously pleased to pub<g ref="char:EOLhyphen"/>lish
+<pb facs="tcp:113482:3"/> his great and unspeakable greife con<g ref="char:EOLhyphen"/>ceived by the losse of so many of his faith<g ref="char:EOLhyphen"/>full and loyall subiects in that bloudy bat<g ref="char:EOLhyphen"/>taile fought at Kinton, and also his most hearty and unfained desire of Peace, and proclamation for reconcilment wherein he doth evpresse his generall sorrow appre<g ref="char:EOLhyphen"/>hending the losse of his Subiects, and his free pard on unto his subiects, if they shall imbrace those his Royall proffers of Peace; Whereupon the Houses taking this his Majestyes Proclamation into their consi<g ref="char:EOLhyphen"/>deration, and also conceiving the great inconveniences that must needs fall on this Kingdome of necessity by reason of a Civill Warr, considering further the great calamity and desolation that may fall on this Nation perforce ensue by reason of this civil discord, and how that if those distractions were not remedyed we must share with <hi>Germamy</hi> in her desolation, and be as ruinate as that our neighbour Nati<g ref="char:EOLhyphen"/>on. Wherupon it was resolved that the Earle of <hi>Northumberland,</hi> the Earle of <hi>Pem<g ref="char:EOLhyphen"/>brock</hi>
+               <pb facs="tcp:113482:3"/> with 2 Lords more and 4 members of the House of Commons should be dis<g ref="char:EOLhyphen"/>patched with a petition vnto his Maiestey if his Maiestey would be pleased to grant them safe conduct, and so it was Ordered that they should go to <hi>Wallingford</hi> where it was then reported that his Maiestie did lye, to procure His Maiestie to be moved concerning the same Petition, the substance is as followeth.</p>
+            <p>That wheras the Parliament had bin in<g ref="char:EOLhyphen"/>formed that his Maiestie had declared himselfe to be very tender of sheding of bloud, rather wishing that there might be a union betweene his Maiesty and his Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>And so that their may by this meanes Iustice take its Legall and due pro<g ref="char:EOLhyphen"/>ceedings against Malifactors, and that they may be brought unto a iust triall, and so by this meanes that this land may inioy a most blessed flourishing and happy peace after her long and grevious time of suf<g ref="char:EOLhyphen"/>ings.</p>
+            <pb facs="tcp:113482:4"/>
+            <p> The Parliament decareing them, likewise the same pious and most dutifull affection being willing, and allwaies desirous to concur with his Majesty in all possible meanes for the advancment of his Majestys honour the good of the Church and Common wealth.</p>
+            <p>That as they for there owne parts have not giuen any iust cause or occasion to his most sacred majesty, to take up Armes and to levie war against them, and the rest of his Maiestyes louing and loyall Subjects, so they do also now with all humillity, and harty affection, signifie unto his sacred Maiesty, that their endeavours and good affections shall not be wanting or defective, to use or imploy all possible meanes for the setling of the present destractions in this his Majesties Kingdome, and give<g ref="char:EOLhyphen"/>ing his Majesty all dutifull and Loyall o<g ref="char:EOLhyphen"/>bedience; as becomes faithfull and obedi<g ref="char:EOLhyphen"/>ent subiects. And that they neither have-nor do take up armes for any particular ends of their own no sinister respects, nor
+<pb facs="tcp:113482:4"/> drawn on by any privat conditions what<g ref="char:EOLhyphen"/>soever then inducing thereunto, but only out of the bond of conscience wherin they stand bound to Almighty God, to maintain the true and ancient Protestant Religon protested in this land, his Maiesties iust prerogatives, the fundamentall Laws of the land, from violation and subversion, and the liberty of the subiect, it being abu<g ref="char:EOLhyphen"/>sed by great violence and by oppresion. Humbly desirng His Maiesty to declare those ill and subverting Councell, which have drawn his Maiesty from his great Councell of Parliament, and by their ill suggestions occasioned those present di<g ref="char:EOLhyphen"/>stractions, wherein these present times are involved; and that he would be gratiously pleased to returne, and come in a Peace<g ref="char:EOLhyphen"/>able manner and treate with his great Councell; and deliver up those that are Delinquents, and insendiaries of these pre<g ref="char:EOLhyphen"/>sent evills and troubles, to receive their tryall according to their merrit of their cause, and the Lawes of the Land.</p>
+            <pb facs="tcp:113482:5"/>
+            <p> Upon Satterday last Sir <hi>William Killi<g ref="char:EOLhyphen"/>grew</hi> returned to the House, and brought His Majestyes answer, concerning the cleering of the Petition of both Houses, and the Committee which they should send with the same, with the promise of their safe conduct, which answer was to tdis effect.</p>
+            <p>That His Majesties desires did wholly concurre with theirs for a union and a pa<g ref="char:EOLhyphen"/>cification, and that he would be willing and alwaies ready: to receive any Petition that should be presented unto him from from his Parliament, provided alwaies that they should not present the same un<g ref="char:EOLhyphen"/>to him, by the hands of those that he had in his former Proclamations proclaimed and published to be traytors, or excepted in bis declarations, and that a Committee of both houses of those members not taxed by his Maiesty shall have accesse unto his Maiesty, and safe conduct shall be graunted and performed accordingly.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113482:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
